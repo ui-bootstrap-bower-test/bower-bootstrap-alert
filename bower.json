@@ -1,0 +1,12 @@
+{
+  "name": "bower-bootstrap-alert",
+  "license": "MIT",
+  "version": "0.11.0-SNAPSHOT",
+  "author": {
+    "name": "https://github.com/angular-ui/bootstrap/graphs/contributors"
+  },
+  "dependencies": {
+    "bower-bootstrap-": "*"
+  },
+  "main": "ui-alert-tpls.js"
+}
