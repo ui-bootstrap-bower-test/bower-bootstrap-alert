@@ -5,8 +5,6 @@
   "author": {
     "name": "https://github.com/angular-ui/bootstrap/graphs/contributors"
   },
-  "dependencies": {
-    "bower-bootstrap-": "*"
-  },
+  "dependencies": {},
   "main": "ui-alert-tpls.js"
 }
